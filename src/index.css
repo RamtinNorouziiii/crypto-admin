@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "byekan";
+  src: local("fonts"), url(./libs/font/Iranian\ Sans.ttf) format("TrueType");
+}
+
+body {
+  font-family: "byekan";
+  direction: rtl;
+  color : white;
+  background-color: black;
+  
+}
